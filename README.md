@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://gitlab.com/specterog/ByteVeil/releases/tag/v1.0.0">
+  <a href="https://github.com/Batman-Priv/ByteVeil/releases/tag/v1.0.0">
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
   </a>
   <a href="https://go.dev/">
     <img src="https://img.shields.io/badge/Go-1.25%2B-00ADD8.svg" alt="Go">
   </a>
-  <a href="https://gitlab.com/specterog/ByteVeil">
-    <img src="https://img.shields.io/github/stars/specterog/ByteVeil?style=flat" alt="GitHub Stars">
+  <a href="https://github.com/Batman-Priv/ByteVeil">
+    <img src="https://img.shields.io/github/stars/Batman-Priv/ByteVeil?style=flat" alt="GitHub Stars">
   </a>
   <a href="https://github.com/topics/steganography">
     <img src="https://img.shields.io/badge/Topic-Steganography-purple.svg" alt="Steganography">
@@ -29,7 +29,7 @@
   <a href="https://github.com/topics/encryption">
     <img src="https://img.shields.io/badge/Topic-Encryption-red.svg" alt="Encryption">
   </a>
-  <a href="https://gitlab.com/specterog/ByteVeil/blob/main/LICENSE">
+  <a href="https://github.com/Batman-Priv/ByteVeil/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   </a>
 </p>
@@ -154,7 +154,7 @@ can still be recognized as PNG if its binary signature is a valid PNG signature.
 Clone the repository:
 
 ```bash
-git clone https://gitlab.com/specterog/ByteVeil.git
+git clone https://github.com/Batman-Priv/ByteVeil.git
 ```
 
 Enter the project directory:
@@ -196,7 +196,7 @@ Windows:
 You can also install ByteVeil directly using `go install`:
 
 ```bash
-go install gitlab.com/specterog/ByteVeil@v1.0.0
+go install github.com/Batman-Priv/ByteVeil@v1.0.0
 ```
 
 Make sure your Go binary directory is included in your system `PATH`.
@@ -1161,7 +1161,7 @@ ByteVeil decode -in <stego-file> -out <output> -password "<password>"
 Clone the repository:
 
 ```bash
-git clone https://gitlab.com/specterog/ByteVeil.git
+git clone https://github.com/Batman-Priv/ByteVeil.git
 ```
 
 Enter the directory:
